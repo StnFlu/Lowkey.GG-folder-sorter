@@ -1,4 +1,5 @@
 # Lowkey.GG-folder-sorter
+![SocialCard](https://user-images.githubusercontent.com/60700911/132876658-b098a63f-cbae-4740-b589-aa78bbff0cb1.png)
 Third party Lowkey.GG folder sorter
 
 This program is made to allow for recordings to be automatically put into their own folders. This is a feature that was present on Plays.TV before it was shut down and I thought it would be worth adding it back. One important thing to note is that while it sorts your recordings into folders, you will no longer be able to see them on your dashboard. 
@@ -6,3 +7,4 @@ This program is made to allow for recordings to be automatically put into their 
 Place the .exe within your recordings folder, choose the file extension and then your files will be sorted into folders.
 
 If a file of the same name exists within the folder the file will be ignored.
+
